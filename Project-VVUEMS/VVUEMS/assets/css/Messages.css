@@ -1,0 +1,48 @@
+#contact_ {
+  height: 100vh;
+  background: url(../../assets/img/1.jpg)no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#contact_ h1, #form_ h1{
+  color: white;
+}
+
+#form_ {
+  height: 100vh;
+  background: url(../../assets/img/2.jpg)no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#msg {
+  width: 50%;
+  position: absolute;
+  top: 27%;
+  left: 25%;
+
+  color: white;
+}
+
+#position {
+  text-align: center;
+  padding: 10px;
+}
+
+#position .my-col i {
+  font-size: 30px;
+}
+
+.my-col {
+  border: dashed;
+  padding: 5px;
+}
+
+.my-col h2 {
+  font-weight: 400;
+}
+
+.my-col.my-btn {
+}
+
