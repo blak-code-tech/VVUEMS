@@ -1,5 +1,5 @@
 ***********************************************************************************
-////   Hello sir, My name is Daniel Otoo and My Students ID is 218IT02000009   \\\\
+////   Hello, this is VVUEMS                                                   \\\\
 ***********************************************************************************
 **										 **
 //  There are two admin accounts in my project, their usernames and passwords    \\
